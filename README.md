@@ -1,7 +1,7 @@
 # minioniwar
 Minion game made in my first hackathon
 
-Made using P5.js
+Made using P5.js  
 Just open Minioniwar.html and enjoy the game with your friends
 
 Instructions:  
