@@ -2,6 +2,7 @@
 Minion game made in my first hackathon
 
 Made using P5.js
+Just open Minioniwar.html and enjoy the game with your friends
 
 Instructions:  
 Its a 2 player game in which each player have to defeat the other player by reducing their point to 0 by using either fire attack or fart attack.
